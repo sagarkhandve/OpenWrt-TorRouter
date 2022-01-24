@@ -40,3 +40,4 @@
 ```shell
    uci show firewall; uci show tor; grep -v -r -e "^#" -e "^$" /etc/tor
 ```
+# ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
