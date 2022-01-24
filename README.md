@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license "Go to license section")
+
 ### OpenWrt - Tor Router
 1. Connect to OpenWrt router using ssh connection.
 ```shell
@@ -40,4 +42,3 @@
 ```shell
    uci show firewall; uci show tor; grep -v -r -e "^#" -e "^$" /etc/tor
 ```
-# ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
