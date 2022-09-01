@@ -41,4 +41,4 @@
 ```shell
    uci show firewall; uci show tor; grep -v -r -e "^#" -e "^$" /etc/tor
 ```
-[![License](https://img.shields.io/badge/License-MIT-blue)](#license "Go to license section")[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsagarkhandve%2FOpenWrt-TorRouter&count_bg=%23FC4F4F&title_bg=%23535353&icon=github.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license "Go to license section") [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsagarkhandve%2FOpenWrt-TorRouter&count_bg=%23FC4F4F&title_bg=%23535353&icon=github.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com)
