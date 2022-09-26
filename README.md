@@ -41,4 +41,4 @@
    uci show firewall; uci show tor; grep -v -r -e "^#" -e "^$" /etc/tor
 ```
 ## 
-[![License](https://img.shields.io/badge/License-MIT-blue)](#license "Go to license section")
+[![License](https://img.shields.io/badge/LICENSE-MIT-blue?style=flat-square&logo)](#license "Go to license section")
